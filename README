@@ -12,7 +12,7 @@ This example is about how ROS "TOPIC" work.
 STEPS of build
 1. mkdir ~{your_catkin_workspace}/src/{project_name}
 2. cd ~{your_catkin_workspace}/src/{project_name}
-3. git clone https://github.com/AlysonQ/test
+3. git clone https://github.com/AlysonQ/ROS_Topic
 4. cd ~~{your_catkin_workspace}/
 5. catkin_make
 
