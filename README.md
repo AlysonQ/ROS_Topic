@@ -1,10 +1,8 @@
-###############################################
-#
-# Author : Ying-Hua(Alyson) Chen
-# E-mail : qoo810823@gmail.com
-# Date   : 2015.10.02
-#
-###############################################
+
+* Author : Ying-Hua(Alyson) Chen
+* E-mail : qoo810823@gmail.com
+* Date   : 2015.10.02
+
 
 Just a test for upload source code to github.
 This example is about how ROS "TOPIC" work.
